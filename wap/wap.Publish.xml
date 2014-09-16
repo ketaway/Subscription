@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="ftp://203.146.208.145" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FTP" replaceMatchingFiles="True" userName="wap" savePWD="True" userPWD="AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAQY6CRGWS902jOkpDu5Ga1wAAAAACAAAAAAAQZgAAAAEAACAAAACpSVpQuj2TjSLhVLyCGFxo96e5+RWnZnu1BaQVjjW5+wAAAAAOgAAAAAIAACAAAAAH7WwAe3qBDVC0DIjJwv0SnNHYjNa2DJcqMfjtwxNyOCAAAAAIv2bfSBY5UgussOXVgRJMgvkpURWWRzuxTBlL4ZijK0AAAABFDM0YSrpKKCJKT1VvS7Z4FkfGXRy6FsNbefr4EM1NmnW1g3VmkF6AeBwWQeqvQvel+s7/zQI5u1oRmNduVAqW" SelectedForPublish="True">
+    <file relUrl="Web.config" publishTime="08/22/2014 15:07:32" />
+    <file relUrl="WebForm1.aspx" publishTime="08/23/2014 01:26:51" />
+    <file relUrl="bin/NLog.xml" publishTime="06/02/2014 19:33:34" />
+    <file relUrl="WebService1.asmx" publishTime="08/15/2014 22:01:17" />
+    <file relUrl="Introspector.ashx" publishTime="08/16/2014 01:27:23" />
+    <file relUrl="regresult.aspx" publishTime="08/16/2014 00:03:25" />
+    <file relUrl="chkoperator.ashx" publishTime="08/15/2014 22:02:38" />
+    <file relUrl="bin/wap.dll" publishTime="09/03/2014 09:42:55" />
+    <file relUrl="pub/wap_id_rsa_pub.xml" publishTime="08/16/2014 00:09:33" />
+    <file relUrl="bin/wap.xml" publishTime="09/03/2014 09:42:55" />
+    <file relUrl="bin/NLog.dll" publishTime="06/02/2014 19:33:34" />
+    <file relUrl="Global.asax" publishTime="08/16/2014 01:43:01" />
+    <file relUrl="NLog.config" publishTime="08/22/2014 15:17:15" />
+    <file relUrl="aoc.aspx" publishTime="08/23/2014 05:58:39" />
+    <file relUrl="bin/wap.pdb" publishTime="09/03/2014 09:42:55" />
+    <file relUrl="ccunreg.ashx" publishTime="08/22/2014 15:01:54" />
+  </publishProfile>
+</publishData>

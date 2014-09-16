@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="ftp://203.146.208.145" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="SubScriptionDTAC" publishMethod="FTP" replaceMatchingFiles="True" userName="subdtac" savePWD="True" userPWD="AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAADiA69Ur5SkSFauJ7jHFHVgAAAAACAAAAAAAQZgAAAAEAACAAAADOLnJe7io9KpidatgEt0bbupaESIPAfv1jysQ2EfIoZAAAAAAOgAAAAAIAACAAAAAwqSzlUIFAFTkMJINCK3rLgymhbakxw1HdskCH4HSB5hAAAACct+bZm1QWYsy4H04J5rrtQAAAADiSzMWbZdV9py3i3mAJL9tE3txuyGuj4VBB4oD4U7K7kHy8rjF/MO5nMlQmJhY4y0EFblkWNTCuSHPQcWGLBic=" SelectedForPublish="True">
+    <file relUrl="Web.config" publishTime="08/07/2014 23:40:05" />
+    <file relUrl="WebForm1.aspx" publishTime="07/31/2014 22:53:18" />
+    <file relUrl="notify.ashx" publishTime="07/21/2014 11:31:27" />
+    <file relUrl="bin/NLog.xml" publishTime="06/02/2014 19:33:34" />
+    <file relUrl="dr.ashx" publishTime="07/21/2014 15:01:08" />
+    <file relUrl="bin/SubscriptionDTAC.xml" publishTime="08/19/2014 19:00:11" />
+    <file relUrl="mo.ashx" publishTime="07/21/2014 13:34:08" />
+    <file relUrl="bin/SubscriptionDTAC.dll" publishTime="08/19/2014 19:00:11" />
+    <file relUrl="Scripts/jquery-1.4.1.js" publishTime="09/27/2013 11:54:33" />
+    <file relUrl="bin/NLog.dll" publishTime="06/02/2014 19:33:34" />
+    <file relUrl="Global.asax" publishTime="09/27/2013 11:54:33" />
+    <file relUrl="NLog.config" publishTime="08/08/2014 13:58:37" />
+    <file relUrl="Scripts/jquery-1.4.1-vsdoc.js" publishTime="09/27/2013 11:54:33" />
+    <file relUrl="Default.aspx" publishTime="07/21/2014 15:49:57" />
+    <file relUrl="Scripts/jquery-1.4.1.min.js" publishTime="09/27/2013 11:54:33" />
+    <file relUrl="bin/SubscriptionDTAC.pdb" publishTime="08/19/2014 19:00:11" />
+  </publishProfile>
+</publishData>

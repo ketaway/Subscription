@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="ftp://203.146.208.145" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FTP" replaceMatchingFiles="True" userName="subais" savePWD="True" userPWD="AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAnB8sBQSTOEuh+pmC5DsIkgAAAAACAAAAAAAQZgAAAAEAACAAAADpcU/3VpiZ2Cqt5HjnuB9l4RwHETxptOZ+/nrah1OAlQAAAAAOgAAAAAIAACAAAAALGZH7w1xcvJ6nj80V0lCFue45+tVP2fYimtxiBnCbuyAAAADhWVIRM+bj+fhdpBqd0eVXKhi9FTHnxvm0XMLsRXNylUAAAACa6/2yD+YUDIQX3Kyq0rqMsvwKc6aZ4TOnGjmGgBXDuOspqlNxGjBMZjOwKFgOSh/lA/MsUcbIob5sJHPVJcFJ" SelectedForPublish="True">
+    <file relUrl="testwappull.aspx" publishTime="07/15/2014 16:15:55" />
+    <file relUrl="bin/AISSubscription.dll" publishTime="08/16/2014 04:16:50" />
+    <file relUrl="Global.asax" publishTime="07/08/2014 21:02:08" />
+    <file relUrl="sp.ashx" publishTime="07/08/2014 21:03:50" />
+    <file relUrl="Site.Master" publishTime="07/08/2014 21:02:08" />
+    <file relUrl="Styles/Site.css" publishTime="07/08/2014 21:02:08" />
+    <file relUrl="notify.ashx" publishTime="07/09/2014 11:57:22" />
+    <file relUrl="spback.ashx" publishTime="07/15/2014 16:24:41" />
+    <file relUrl="About.aspx" publishTime="07/08/2014 21:02:08" />
+    <file relUrl="Scripts/jquery-1.4.1.js" publishTime="07/08/2014 21:02:08" />
+    <file relUrl="1378476170-1369136014-o.jpg" publishTime="07/28/2014 16:34:13" />
+    <file relUrl="pub/wap_id_rsa_pub.xml" publishTime="07/09/2014 17:30:50" />
+    <file relUrl="Account/Web.config" publishTime="07/08/2014 21:02:08" />
+    <file relUrl="bin/SMSLibs.dll" publishTime="08/04/2008 19:23:22" />
+    <file relUrl="Account/Login.aspx" publishTime="07/08/2014 21:02:08" />
+    <file relUrl="wappullspback.ashx" publishTime="07/29/2014 14:10:20" />
+    <file relUrl="bin/SOAPLib.dll" publishTime="10/26/2009 11:35:56" />
+    <file relUrl="listfile.aspx" publishTime="07/15/2014 19:03:44" />
+    <file relUrl="Scripts/jquery-1.4.1.min.js" publishTime="07/08/2014 21:02:08" />
+    <file relUrl="bin/AISMM7.dll" publishTime="10/26/2009 11:35:46" />
+    <file relUrl="Default.aspx" publishTime="07/08/2014 21:02:08" />
+    <file relUrl="Account/ChangePasswordSuccess.aspx" publishTime="07/08/2014 21:02:08" />
+    <file relUrl="testreg.aspx" publishTime="08/01/2014 10:27:04" />
+    <file relUrl="Account/Register.aspx" publishTime="07/08/2014 21:02:08" />
+    <file relUrl="wappullresult.ashx" publishTime="07/17/2014 11:24:48" />
+    <file relUrl="reg_success.aspx" publishTime="07/09/2014 04:34:08" />
+    <file relUrl="Account/ChangePassword.aspx" publishTime="07/08/2014 21:02:08" />
+    <file relUrl="bin/AISSubscription.xml" publishTime="08/16/2014 04:16:50" />
+    <file relUrl="bin/AISMM7.pdb" publishTime="10/26/2009 11:35:50" />
+    <file relUrl="wappullnotify.ashx" publishTime="07/23/2014 09:36:30" />
+    <file relUrl="bin/Logger.dll" publishTime="10/26/2009 11:35:48" />
+    <file relUrl="bin/AISSubscription.pdb" publishTime="08/16/2014 04:16:50" />
+    <file relUrl="bin/Transport.dll" publishTime="10/26/2009 11:35:52" />
+    <file relUrl="Web.config" publishTime="08/16/2014 02:35:42" />
+    <file relUrl="Scripts/jquery-1.4.1-vsdoc.js" publishTime="07/08/2014 21:02:08" />
+  </publishProfile>
+</publishData>

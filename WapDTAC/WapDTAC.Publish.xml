@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="ftp://203.146.208.145/wapaoc" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FTP" replaceMatchingFiles="True" userName="subdtac" savePWD="True" userPWD="AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAADiA69Ur5SkSFauJ7jHFHVgAAAAACAAAAAAAQZgAAAAEAACAAAACfE22iCoALX73LRMJdjgTm85Trj4s4dgFl0OienfjXxwAAAAAOgAAAAAIAACAAAACSm5k4n3mOvCTJ/3UNiJtMY/bw1t90A08OGpFEMfP5URAAAABTAJRqCteL6nStgvlmcO9XQAAAAObdH+Mgg7I+Og1hQUGAW7xKw4OYxLwXz6Xc/p2R/0EzVWr7LPlQxa/Bxt3ge9q/huNGvpcha+iPb3klHkS8sSg=" SelectedForPublish="True">
+    <file relUrl="Web.config" publishTime="07/31/2014 11:09:26" />
+    <file relUrl="WebForm1.aspx" publishTime="07/31/2014 10:14:35" />
+    <file relUrl="Site.Master" publishTime="07/31/2014 10:11:46" />
+    <file relUrl="Account/Web.config" publishTime="07/31/2014 10:11:46" />
+    <file relUrl="Account/Register.aspx" publishTime="07/31/2014 10:11:46" />
+    <file relUrl="aoc/ok.ashx" publishTime="07/31/2014 10:13:55" />
+    <file relUrl="testdl.aspx" publishTime="07/31/2014 13:37:07" />
+    <file relUrl="bin/WapDTAC.dll" publishTime="07/31/2014 13:36:38" />
+    <file relUrl="Account/Login.aspx" publishTime="07/31/2014 10:11:46" />
+    <file relUrl="Styles/Site.css" publishTime="07/31/2014 10:11:46" />
+    <file relUrl="bin/WapDTAC.pdb" publishTime="07/31/2014 13:36:38" />
+    <file relUrl="Account/ChangePassword.aspx" publishTime="07/31/2014 10:11:46" />
+    <file relUrl="Scripts/jquery-1.4.1.js" publishTime="07/31/2014 10:11:46" />
+    <file relUrl="Global.asax" publishTime="07/31/2014 10:11:46" />
+    <file relUrl="aoc/cancel.ashx" publishTime="07/31/2014 10:26:21" />
+    <file relUrl="Scripts/jquery-1.4.1-vsdoc.js" publishTime="07/31/2014 10:11:46" />
+    <file relUrl="bin/WapDTAC.xml" publishTime="07/31/2014 13:36:38" />
+    <file relUrl="Account/ChangePasswordSuccess.aspx" publishTime="07/31/2014 10:11:46" />
+    <file relUrl="Default.aspx" publishTime="07/31/2014 10:11:46" />
+    <file relUrl="Scripts/jquery-1.4.1.min.js" publishTime="07/31/2014 10:11:46" />
+    <file relUrl="About.aspx" publishTime="07/31/2014 10:11:46" />
+  </publishProfile>
+</publishData>

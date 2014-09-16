@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="ftp://203.146.208.145" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FTP" replaceMatchingFiles="True" userName="backoffice" savePWD="True" userPWD="AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAQY6CRGWS902jOkpDu5Ga1wAAAAACAAAAAAAQZgAAAAEAACAAAAAyBI8kSSCpffUmW7k1gx+tISDyaBzVsjZJJkM2lMq+egAAAAAOgAAAAAIAACAAAACqZDX/9nB4BskJn7/UVMsl+WZK7IqVmd0JrFawMnTpmyAAAACWCKigzSkTHtdk6cfYgi4XPXNXYRGPJCFHns6Ic/bWmkAAAAA2XvIS0kjo71lqtsd99us0ITKnURZph64II45StG9QpEVkvprd+GKxR9yHE5vn6bjtyRB4FB7PGGSONuHRv8Eh" SelectedForPublish="True">
+    <file relUrl="Scripts/jquery-2.1.1.js" publishTime="08/04/2014 00:09:24" />
+    <file relUrl="bin/BACK_OFFICE.xml" publishTime="09/10/2014 13:08:02" />
+    <file relUrl="images/truemovelogo.png" publishTime="08/22/2014 21:29:26" />
+    <file relUrl="Scripts/jquery-2.1.1.min.js" publishTime="08/04/2014 00:09:24" />
+    <file relUrl="bin/BACK_OFFICE.dll" publishTime="09/10/2014 13:08:02" />
+    <file relUrl="Scripts/docs.min.js" publishTime="08/04/2014 00:58:39" />
+    <file relUrl="Report/SubscriptionMTSchedule.aspx" publishTime="09/05/2014 11:38:41" />
+    <file relUrl="Report/SubscriptionCharging.aspx" publishTime="09/05/2014 11:38:08" />
+    <file relUrl="images/aislogo.png" publishTime="08/22/2014 21:19:17" />
+    <file relUrl="Export/SubscriptionByOperator_CSVExport.aspx" publishTime="09/03/2014 00:28:41" />
+    <file relUrl="main.aspx" publishTime="09/05/2014 16:24:56" />
+    <file relUrl="Content/bootstrap.min.css" publishTime="08/04/2014 00:09:30" />
+    <file relUrl="Content/bootstrap-theme.min.css" publishTime="08/04/2014 00:09:30" />
+    <file relUrl="Site3.Master" publishTime="09/05/2014 17:43:32" />
+    <file relUrl="login.html" publishTime="08/05/2014 15:11:15" />
+    <file relUrl="bin/DataAccess.pdb" publishTime="09/05/2014 16:18:46" />
+    <file relUrl="Site2.Master" publishTime="08/04/2014 00:47:26" />
+    <file relUrl="bin/BusinessLogic.xml" publishTime="09/05/2014 16:18:46" />
+    <file relUrl="WebForm1.aspx" publishTime="08/04/2014 00:49:14" />
+    <file relUrl="Json/JsonData.asmx" publishTime="09/06/2014 16:22:09" />
+    <file relUrl="Scripts/ie10-viewport-bug-workaround.js" publishTime="08/04/2014 00:58:39" />
+    <file relUrl="Site1.Master" publishTime="08/04/2014 01:11:35" />
+    <file relUrl="packages.config" publishTime="08/04/2014 00:09:30" />
+    <file relUrl="Content/bootstrap.css" publishTime="08/04/2014 00:09:30" />
+    <file relUrl="bin/BusinessLogic.dll" publishTime="09/05/2014 16:18:46" />
+    <file relUrl="form-elements.html" publishTime="08/18/2014 09:14:45" />
+    <file relUrl="tables.html" publishTime="08/07/2014 20:51:30" />
+    <file relUrl="Subscription/ContentScheduleMT.aspx" publishTime="09/06/2014 17:00:02" />
+    <file relUrl="Content/bootstrap-theme.css" publishTime="08/04/2014 00:09:30" />
+    <file relUrl="bin/DataAccess.xml" publishTime="09/05/2014 16:18:46" />
+    <file relUrl="bin/BACK_OFFICE.pdb" publishTime="09/10/2014 13:08:02" />
+    <file relUrl="fonts/glyphicons-halflings-regular.svg" publishTime="08/04/2014 00:09:30" />
+    <file relUrl="default.aspx" publishTime="08/07/2014 11:44:14" />
+    <file relUrl="Scripts/ie-emulation-modes-warning.js" publishTime="08/04/2014 00:58:39" />
+    <file relUrl="UserControl/utcLeftMenu.ascx" publishTime="09/04/2014 13:51:53" />
+    <file relUrl="WebForm2.aspx" publishTime="08/04/2014 00:47:15" />
+    <file relUrl="blank.html" publishTime="09/04/2014 12:37:48" />
+    <file relUrl="Scripts/jquery-2.1.1-vsdoc.js" publishTime="08/04/2014 00:09:24" />
+    <file relUrl="bin/DataAccess.dll" publishTime="09/05/2014 16:18:46" />
+    <file relUrl="login.aspx" publishTime="08/07/2014 00:04:04" />
+    <file relUrl="UI/pgServiceManage.aspx" publishTime="08/07/2014 15:12:34" />
+    <file relUrl="Web.config" publishTime="09/02/2014 23:48:15" />
+    <file relUrl="Report/SubscriptionRegister.aspx" publishTime="08/07/2014 19:51:25" />
+    <file relUrl="UserControl/utcNavBar.ascx" publishTime="09/05/2014 16:23:42" />
+    <file relUrl="Report/SubscriptionByOperator.aspx" publishTime="09/10/2014 13:07:41" />
+    <file relUrl="images/dtaclogo.png" publishTime="08/22/2014 21:29:26" />
+    <file relUrl="Scripts/bootstrap.js" publishTime="08/04/2014 00:09:30" />
+    <file relUrl="bin/BusinessLogic.pdb" publishTime="09/05/2014 16:18:46" />
+    <file relUrl="images/processing.gif" publishTime="08/25/2014 00:51:22" />
+    <file relUrl="jqgrid.html" publishTime="09/03/2014 12:11:29" />
+    <file relUrl="Scripts/jquery.min.js" publishTime="08/04/2014 00:58:39" />
+    <file relUrl="Scripts/bootstrap.min.js" publishTime="08/04/2014 00:09:30" />
+  </publishProfile>
+</publishData>

@@ -1,0 +1,44 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="Reg" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://202.91.22.240:8319/SAG/services/cpa/register</Value>
+    </Setting>
+    <Setting Name="UnReg" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://202.91.22.240:8319/SAG/services/cpa/unregister</Value>
+    </Setting>
+    <Setting Name="StatusQuery" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://202.91.22.240:8319/SAG/services/cpa/subscriptionStatusQuery</Value>
+    </Setting>
+    <Setting Name="SMSMT" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://202.91.22.240:8319/SAG/services/cpa/sms</Value>
+    </Setting>
+    <Setting Name="MMSMT" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://202.91.22.240:8319/SAG/services/cpa/mms</Value>
+    </Setting>
+    <Setting Name="DBCon" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=.;Initial Catalog=subDTAC;Persist Security Info=True;User ID=sa;Password=Password@1&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=.;Initial Catalog=subDTAC;Persist Security Info=True;User ID=sa;Password=Password@1</Value>
+    </Setting>
+    <Setting Name="MTUser" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">cheese123</Value>
+    </Setting>
+    <Setting Name="MTPass" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">S16ACGMSg</Value>
+    </Setting>
+    <Setting Name="MoLogFile" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">D:\www\subscription\dtac\logs\MoLog.log</Value>
+    </Setting>
+    <Setting Name="DRLogFile" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">D:\www\subscription\dtac\logs\DRLog.log</Value>
+    </Setting>
+    <Setting Name="LogPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">D:\www\subscription\dtac\logs\</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
